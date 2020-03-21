@@ -20,3 +20,7 @@ All the Java Classes in this Application have Junit Tests.
 You can run the Tests as well to validate the functionality of the Application
 
 The tests are located at *src/test/java* and has same package structure as the application code
+
+You can use maven to run all the tests using the following command
+
+`mvn clean test`
